@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus magnam repellendus ipsa excepturi, eius at maxime, vitae soluta, minus iusto repellat tempore ad doloremque minima alias eos nemo culpa et accusantium officia distinctio. Laudantium doloremque explicabo ut voluptatem numquam quis commodi reiciendis, odio, nemo, obcaecati dolorum tenetur iusto omnis corrupti enim non. Dolorum expedita molestias maiores eius nobis nisi ullam, mollitia blanditiis quos accusamus corrupti cupiditate quaerat soluta nostrum maxime quam nesciunt, fugiat provident! Eius nostrum molestias eum culpa impedit numquam, quibusdam harum cumque alias ipsum unde blanditiis minima amet obcaecati, eos maxime? Repellat impedit beatae inventore cumque ipsam non quod! Enim ut eveniet porro, eum aperiam non, voluptas adipisci quis neque laboriosam animi dolor mollitia magnam a? Doloribus eveniet molestiae nobis maiores sequi saepe facere nesciunt odio eos quis esse quaerat blanditiis, voluptatum ipsa ut excepturi at incidunt minima id recusandae unde rerum nemo exercitationem dicta. Doloremque culpa, at quas non libero inventore, voluptates ullam sunt ratione reprehenderit optio rerum iure id atque quis magni fuga quae laborum perferendis, amet soluta? Nisi vel repudiandae fugiat nihil, accusamus delectus, libero laboriosam consectetur illo architecto mollitia ducimus ipsa doloribus. Aperiam obcaecati dicta id nemo, voluptas quisquam corporis aliquid repellendus. Neque, repellendus.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis aperiam at vitae nisi tempora corrupti tempore et odio voluptas voluptate, dignissimos recusandae. Ad quod necessitatibus deserunt enim placeat sequi quam consequuntur tempora libero obcaecati laborum quo perferendis, molestias neque autem repudiandae sed officiis? Suscipit nobis ipsam aliquid iste error nisi libero dolorum amet officia quis incidunt, expedita, itaque molestias iure consectetur accusamus autem illo quod beatae, architecto maxime vitae corrupti repellat similique! Laudantium, nam vitae consequatur placeat perspiciatis accusamus, nobis nisi dolor incidunt tempora recusandae praesentium fuga ex? Exercitationem libero molestiae autem amet quod rem assumenda facere asperiores! Cupiditate, tenetur dicta sint natus quas eius laboriosam, dolore sit fuga amet ut illo maiores sunt voluptas aperiam alias veniam nihil inventore magni. Nemo ut rerum ab magni, provident quidem dolore ullam illo tempora, odio optio repellat dicta quibusdam similique enim deleniti reiciendis. Eius facilis eveniet fugiat a placeat, modi quasi fugit!",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Third Post",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore dolores, culpa, asperiores adipisci repellat, voluptatibus impedit tempora nulla laboriosam accusantium obcaecati et nam quas tenetur? Sint quibusdam perspiciatis suscipit. Accusantium doloribus, et voluptatem architecto ad aut praesentium, dignissimos provident itaque possimus fuga. Esse, soluta facilis? Excepturi odio quisquam illo ab.",
+      "tags": [
+        "html",
+        "webdev"
+      ]
+    }
+  ]
+}
